@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 220" role="img" aria-labelledby="titleHome">
+  <title id="titleHome">Sofá moderno para hogar</title>
+  <rect width="260" height="220" rx="32" fill="#eef2ff" />
+  <!-- Base del sofá -->
+  <rect x="50" y="120" width="160" height="60" rx="8" fill="#1e40af" />
+  <!-- Asiento -->
+  <rect x="60" y="100" width="140" height="40" rx="6" fill="#3b82f6" />
+  <!-- Respaldo -->
+  <rect x="60" y="60" width="140" height="50" rx="6" fill="#1d4ed8" />
+  <!-- Brazos -->
+  <rect x="40" y="80" width="30" height="80" rx="15" fill="#1e40af" />
+  <rect x="190" y="80" width="30" height="80" rx="15" fill="#1e40af" />
+  <!-- Cojines -->
+  <rect x="70" y="70" width="40" height="30" rx="4" fill="#dbeafe" />
+  <rect x="120" y="70" width="40" height="30" rx="4" fill="#dbeafe" />
+  <rect x="150" y="70" width="40" height="30" rx="4" fill="#dbeafe" />
+</svg>

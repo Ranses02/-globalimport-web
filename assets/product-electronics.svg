@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 220" role="img" aria-labelledby="titleElec">
+  <title id="titleElec">Televisor inteligente</title>
+  <rect width="260" height="220" rx="32" fill="#eff6ff" />
+  <!-- Base del televisor -->
+  <rect x="60" y="120" width="140" height="20" rx="10" fill="#374151" />
+  <!-- Pantalla -->
+  <rect x="70" y="40" width="120" height="80" rx="8" fill="#1f2937" />
+  <!-- Contenido de pantalla -->
+  <rect x="80" y="50" width="100" height="60" rx="4" fill="#3b82f6" />
+  <circle cx="110" cy="70" r="8" fill="#ffffff" />
+  <circle cx="130" cy="70" r="8" fill="#ffffff" />
+  <circle cx="150" cy="70" r="8" fill="#ffffff" />
+  <rect x="100" y="90" width="60" height="10" rx="5" fill="#ffffff" />
+  <!-- Botones -->
+  <circle cx="130" cy="150" r="6" fill="#6b7280" />
+</svg>

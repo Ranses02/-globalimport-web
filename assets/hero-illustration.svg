@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500" role="img" aria-labelledby="titleHero">
+  <title id="titleHero">Ilustración de importación global con contenedores y mapas</title>
+  <rect width="700" height="500" rx="40" fill="#eef6ff" />
+  <!-- Mapa simplificado -->
+  <path d="M50 200 L150 150 L250 180 L350 120 L450 160 L550 140 L650 170 L650 300 L50 300 Z" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <!-- Contenedor de envío -->
+  <rect x="200" y="250" width="120" height="80" rx="8" fill="#1e40af" />
+  <rect x="220" y="270" width="80" height="40" rx="4" fill="#3b82f6" />
+  <text x="260" y="295" fill="#ffffff" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">GI</text>
+  <!-- Otro contenedor -->
+  <rect x="400" y="220" width="100" height="60" rx="6" fill="#1d4ed8" />
+  <rect x="410" y="230" width="80" height="40" rx="4" fill="#2563eb" />
+  <!-- Flechas de importación -->
+  <path d="M100 250 L180 250" stroke="#10b981" stroke-width="4" marker-end="url(#arrowhead)" />
+  <path d="M350 200 L430 200" stroke="#10b981" stroke-width="4" marker-end="url(#arrowhead)" />
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10b981" />
+    </marker>
+  </defs>
+  <!-- Íconos de productos -->
+  <circle cx="150" cy="100" r="25" fill="#f59e0b" />
+  <text x="150" y="108" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">📦</text>
+  <circle cx="300" cy="80" r="25" fill="#ef4444" />
+  <text x="300" y="88" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🚚</text>
+  <circle cx="500" cy="90" r="25" fill="#8b5cf6" />
+  <text x="500" y="98" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">🌍</text>
+</svg>
