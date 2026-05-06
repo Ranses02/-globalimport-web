@@ -18,18 +18,23 @@ Crear una presencia web clara y moderna para GlobalImport, con una estructura es
 6. Revisión: probar en distintos dispositivos y ajustar detalles.
 
 ## Estado actual
-- `index.html`: estructura base creada y maquetación extendida con contenido inicial.
-- `Style.css`: diseño base aplicado con estilos responsivos.
-- `README.md`: documentación actualizada y guía de etapas.
+- `index.html`: estructura completa con secciones, contenido inicial y formulario de contacto.
+- `Style.css`: diseño base aplicado, con imágenes SVG representativas.
+- `README.md`: documentación actualizada.
+- `assets/`: carpeta con ilustraciones vectoriales de productos.
 
-## Segunda etapa
-Actualmente estamos en la segunda etapa del proyecto:
-- Maquetación detallada del sitio.
-- Inclusión de secciones de “Nosotros” y productos adicionales.
-- Añadido un formulario de contacto funcional para prototipo.
+## Tercera etapa - Estilos CSS avanzados
+Ahora avanzamos a la tercera etapa del proyecto:
+- Refinamiento de estilos CSS con fuentes externas.
+- Mejora de colores, gradientes y efectos visuales.
+- Optimización de responsividad para todos los dispositivos.
+- Añadido de animaciones sutiles y transiciones.
+- Diseño profesional y moderno para comercio electrónico.
 
 ## Próximos pasos
-- Refinar el contenido del catálogo de productos.
-- Añadir imágenes y recursos gráficos.
-- Preparar la tercera etapa centrada en diseño visual y estilos finales.
+- Implementar fuentes Google Fonts (Inter).
+- Añadir gradientes y sombras más sofisticadas.
+- Mejorar efectos hover y animaciones.
+- Refinar el formulario de contacto con validación visual.
+- Preparar la cuarta etapa: contenido detallado de productos.
 
